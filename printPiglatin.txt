@@ -1,0 +1,37 @@
+Inputway ethay amenay ofway ethay eatherway ationstay
+Enterway ethay izesay ofway ethay istoryhay
+Elcomeway otay ethay eatherway ationstay. Ouldway youway ikelay otay:
+1- updateway ethay eatherway ationstay
+2- intpray outway ethay eatherway informationway 
+3- intpray eatherway istoryhay 
+4- Eturnray otay anagermay
+Inputway ethay emperaturetay umbernay (-20 otay 120 egrees) 
+inputday ethay indway eedspay umbernay input(mph)
+ay ethay irectionday ofway ethay indway (N,NE,E,SE,S,SW,W,NW) 
+Aps cay ocklay ouldshay ebay onway!
+(N,NE,E,SE,S,SW,W,NW)
+Ethay 
+ Eatherway ationstay
+ Egreesday ahrenheitfay
+ Mph 
+N
+NE
+E
+SE
+S
+SW
+W
+NW
+Eatherway istoryhay:
+Easeplay enterway away emperaturetay etweenbay -20 otay 120 egreesday
+Indway eedspay isway otnay enteredway asway away ealray umbernay. Easeplay eray-enterway
+Ouyay idday otnay enterway oneway ofway ethay indway irectionsday ovidedpray.
+Easeplay enterway away alidvay umbernay
+Easeplay enterway aluesvay 1-4 inway ethay ainmay enumay
+Elcomeway otay ethay eatherway anagermay:
+1 - eatecray away ewnay eatherway ationstay
+2 - electsay away urrentcay eatherway ationstay
+3 - intpray urrentcay eatherway ofway allway ationsstay
+4 - uitqay
+Erethay isway othingnay otay intpray!
+Esspray 1 otay inputway easurmentsmay

@@ -1,0 +1,30 @@
+﻿Build started 12/15/2015 10:32:07 AM.
+     1>Project "C:\Users\Mike\Documents\Visual Studio 2013\Projects\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt newMain.cpp
+         newMain.cpp
+     1>c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(67): error C2228: left of '.manage' must have class/struct/union
+                 type is 'weatherStation *'
+                 did you intend to use '->' instead?
+     1>c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(88): error C2039: 'data' : is not a member of 'std::_List_iterator<std::_List_val<std::_List_simple_types<weatherStation>>>'
+     1>c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(88): error C2064: term does not evaluate to a function taking 1 arguments
+     1>c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(88): error C2228: left of '.weatherStation' must have class/struct/union
+     1>c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(95): error C2360: initialization of 'i' is skipped by 'case' label
+                 c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(85) : see declaration of 'i'
+     1>c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(97): error C3867: 'std::list<weatherStation,std::allocator<_Ty>>::begin': function call missing argument list; use '&std::list<weatherStation,std::allocator<_Ty>>::begin' to create a pointer to member
+                 with
+                 [
+                     _Ty=weatherStation
+                 ]
+     1>c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(99): error C2039: 'data' : is not a member of 'std::_List_iterator<std::_List_val<std::_List_simple_types<weatherStation>>>'
+     1>c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(99): error C2064: term does not evaluate to a function taking 1 arguments
+     1>c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(99): error C2228: left of '.weatherStation' must have class/struct/union
+     1>c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(105): error C2360: initialization of 'i' is skipped by 'case' label
+                 c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(85) : see declaration of 'i'
+     1>c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(111): error C2361: initialization of 'i' is skipped by 'default' label
+                 c:\users\mike\documents\visual studio 2013\projects\project1\project1\newmain.cpp(85) : see declaration of 'i'
+     1>Done Building Project "C:\Users\Mike\Documents\Visual Studio 2013\Projects\Project1\Project1\Project1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.91

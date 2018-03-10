@@ -1,0 +1,37 @@
+Input the name of the weather station
+Enter the size of the history
+Welcome to the weather station. Would you like to:
+1- Update the weather station
+2- Print out the weather information 
+3- Print weather history 
+4- return to manager
+Input the temperature number (-20 to 120 Degrees)
+Input the wind speed number (Mph)
+Input the direction of the wind (N,NE,E,SE,S,SW,W,NW)
+Caps lock should be ON!
+(N,NE,E,SE,S,SW,W,NW)
+The
+ Weather Station
+ degrees fahrenheit
+ Mph 
+N
+NE
+E
+SE
+S
+SW
+W
+NW
+Weather History:
+Please enter a temperature between -20 to 120 degrees
+Wind speed is not entered as a real number. Please re-enter
+You did not enter one of the wind directions provided. 
+Please enter a valid number
+Please enter values 1-4 in the main menu
+Welcome to the Weather Manager:
+1 - Create a new weather station
+2 - Select a current weather station
+3 - Print current weather of all stations
+4 - Quit
+There is nothing to print!
+Press 1 to input measurments
